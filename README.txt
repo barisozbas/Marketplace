@@ -1,8 +1,7 @@
 >>Marketplace - Azure Blockchain Workbench 
 
-"https://blockchain-dodutl.azurewebsites.net/applications/1/workflows/1
+"https://blockchain-dodutl.azurewebsites.net/applications/1/workflows/1"
 
-"
 	-Project is deployed to Azure.
 
 	-There are owners and buyers.
@@ -22,5 +21,3 @@
 
 	-Otherwise the state of transaction becomes "Item Available". 
 
-
-Made by Baris Ozbas, Burak Deniz, Cenker Karaors
