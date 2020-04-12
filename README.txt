@@ -1,4 +1,4 @@
->>Marketplace - Azure Blockchain Workbench 
+>> Marketplace - Azure Blockchain Workbench 
 
 "https://blockchain-dodutl.azurewebsites.net/applications/1/workflows/1"
 
